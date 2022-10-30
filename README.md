@@ -6,3 +6,5 @@ GSSDeveloper Website: https://shorturl.at/deG06
 
 How do I install MCPE-Custom-Geometry-Skin-Stealer-v135.13?
 You can install by downloading the installer here: , after downloading extract and open Installer v10.2.vbs, you will be greeted with this:
+![lol](https://user-images.githubusercontent.com/115802507/198868956-0966c5d9-1dde-4068-90ca-4cb8408f8fbb.png)
+
