@@ -9,4 +9,4 @@ NOTE: Sometimes a pop up like the one below will appear upon clicking Installer_
 
 ![unknown](https://user-images.githubusercontent.com/115802507/198869381-7a1d2628-677d-4a48-8442-3b56af1c7d86.png)
 
-Since the installer and MCPE-Custom-Geometry-Skin-Stealer-v135.13 are open source you don't have to worry about potential viruses, however since the installer is written in VBS windows will flag it as a potential threat to your device, but we the GSSDevelopers guarantee your saftey is our main concern; you can learn more about us and check out all source codes at our GSSDeveloper Website: https://shorturl.at/deG06
+Since the installer and MCPE-Custom-Geometry-Skin-Stealer-v135.13 are open source you don't have to worry about potential viruses, however since the installer is written in VBS, windows will flag it as a potential threat to your device, but we the GSSDevelopers guarantee your saftey is our main concern; you can learn more about us and check out all source codes at our GSSDeveloper Website: https://shorturl.at/deG06
